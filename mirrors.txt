@@ -1,18 +1,18 @@
-https://siduction.office-vienna.at/extra unstable main
-https://ftp.belnet.be/mirror/siduction/extra unstable main
-https://mirrors.dotsrc.org/siduction/extra unstable main
-https://mirror.cedia.org.ec/siduction/extra unstable main
-https://packages.siduction.org/extra unstable main
-https://ftp.gwdg.de/pub/linux/siduction/extra unstable main
-https://ftp.halifax.rwth-aachen.de/siduction/extra unstable main
-http://ftp.spline.de/pub/siduction/extra unstable main
-http://ftp.uni-stuttgart.de/siduction/extra unstable main
-https://mirror-hk.koddos.net/siduction/extra unstable main
-https://quantum-mirror.hu/mirrors/pub/siduction/extra unstable main
-https://siduction.mirror.garr.it/extra unstable main
-https://ftp.snt.utwente.nl/pub/linux/siduction/extra unstable main
-https://mirror.yandex.ru/mirrors/siduction/extra unstable main
-https://ftp.acc.umu.se/mirror/siduction.org/extra unstable main
-http://ftp.gtlib.gatech.edu/pub/siduction/extra unstable main
-https://mirror.math.princeton.edu/pub/siduction/extra unstable main
-https://liquorix.net/siduction/extra unstable main
+https://siduction.office-vienna.at
+https://ftp.belnet.be/mirror/siduction
+https://mirrors.dotsrc.org/siduction
+https://mirror.cedia.org.ec/siduction
+https://packages.siduction.org
+https://ftp.gwdg.de/pub/linux/siduction
+https://ftp.halifax.rwth-aachen.de/siduction
+http://ftp.spline.de/pub/siduction
+http://ftp.uni-stuttgart.de/siduction
+https://mirror-hk.koddos.net/siduction
+https://quantum-mirror.hu/mirrors/pub/siduction
+https://siduction.mirror.garr.it
+https://ftp.snt.utwente.nl/pub/linux/siduction
+https://mirror.yandex.ru/mirrors/siduction
+https://ftp.acc.umu.se/mirror/siduction.org
+http://ftp.gtlib.gatech.edu/pub/siduction
+https://mirror.math.princeton.edu/pub/siduction
+https://liquorix.net/siduction
