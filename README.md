@@ -17,8 +17,6 @@ http://ftp.spline.de/pub/siduction \
 http://ftp.uni-stuttgart.de/siduction
 ## Hong Kong
 https://mirror-hk.koddos.net/siduction
-## Hungary
-https://quantum-mirror.hu/mirrors/pub/siduction
 ## Italy
 https://siduction.mirror.garr.it
 ## Netherlands

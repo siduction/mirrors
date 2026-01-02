@@ -8,7 +8,6 @@ https://ftp.halifax.rwth-aachen.de/siduction
 http://ftp.spline.de/pub/siduction
 http://ftp.uni-stuttgart.de/siduction
 https://mirror-hk.koddos.net/siduction
-https://quantum-mirror.hu/mirrors/pub/siduction
 https://siduction.mirror.garr.it
 https://ftp.snt.utwente.nl/pub/linux/siduction
 https://mirror.yandex.ru/mirrors/siduction
